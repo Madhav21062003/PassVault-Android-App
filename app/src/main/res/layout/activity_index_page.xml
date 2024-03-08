@@ -13,12 +13,12 @@
         android:layout_height="wrap_content"
         android:background="@drawable/wave_for_topscreen" />
 
-        <ImageView
-            android:id="@+id/indexBackground1"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:scaleType="fitCenter"
-            android:src="@drawable/indexpage_background" />
+    <ImageView
+        android:id="@+id/indexBackground1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/indexpage_background" />
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
